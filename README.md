@@ -1,6 +1,8 @@
 # mini-projeto-de-dados
 Nesse projeto fiz um exercício completo usando pandas para um miniprojeto de análise de dados.
+
 Temos tabelas  os dados(em excel e csv) de 2019 de uma empresa de prestação de serviços  como:
+
 - CadastroFuncionarios.csv
 - CadastroClientes.csv
 - BaseServiçosPrestados.excel
